@@ -1,0 +1,125 @@
+[
+  {
+    "marks": 10,
+    "outOf": 10,
+    "subject": "Chemistry",
+    "details": [
+      {
+        "question": "What is the rate of chemical reaction?",
+        "subject": "Chemistry",
+        "selectedAnswer": "Chemical reaction rate is an intensive property",
+        "isCorrect": true,
+        "marks": 5
+      },
+      {
+        "question": "Which of the following statements concerning basic reactions is correct?",
+        "subject": "Chemistry",
+        "selectedAnswer": "Order of elementary reaction is an integer",
+        "isCorrect": true,
+        "marks": 5
+      }
+    ],
+    "id": "1"
+  },
+  {
+    "marks": 5,
+    "outOf": 5,
+    "subject": "Mathematics",
+    "details": [
+      {
+        "question": "Demo  1",
+        "subject": "Mathematics",
+        "selectedAnswer": "Demo 4",
+        "isCorrect": true,
+        "marks": 5
+      }
+    ],
+    "id": "2"
+  },
+  {
+    "marks": 0,
+    "outOf": 5,
+    "subject": "Mathematics",
+    "details": [
+      {
+        "question": "Demo  1",
+        "subject": "Mathematics",
+        "selectedAnswer": "Demo 2",
+        "isCorrect": false,
+        "marks": 0
+      }
+    ],
+    "id": "3"
+  },
+  {
+    "marks": 25,
+    "outOf": 45,
+    "subject": "React Js",
+    "details": [
+      {
+        "question": "Which of the following is the correct name of React.js?",
+        "subject": "React Js",
+        "selectedAnswer": "All of the above",
+        "isCorrect": true,
+        "marks": 5
+      },
+      {
+        "question": "Which of the following are the advantages of React.js?",
+        "subject": "React Js",
+        "selectedAnswer": "React.js can render both on client and server side.",
+        "isCorrect": false,
+        "marks": 0
+      },
+      {
+        "question": "Which of the following is not a disadvantage of React.js?",
+        "subject": "React Js",
+        "selectedAnswer": "The JSX in React.js makes code easy to read and write.",
+        "isCorrect": true,
+        "marks": 5
+      },
+      {
+        "question": "Which of the following command is used to install create-react-app?",
+        "subject": "React Js",
+        "selectedAnswer": "npm install -f create-react-app",
+        "isCorrect": false,
+        "marks": 0
+      },
+      {
+        "question": "What of the following is used in React.js to increase performance?",
+        "subject": "React Js",
+        "selectedAnswer": "Virtual DOM",
+        "isCorrect": true,
+        "marks": 5
+      },
+      {
+        "question": "What is the default port where webpack-server runs?",
+        "subject": "React Js",
+        "selectedAnswer": "3030",
+        "isCorrect": false,
+        "marks": 0
+      },
+      {
+        "question": "How many numbers of elements a valid react component can return?",
+        "subject": "React Js",
+        "selectedAnswer": "1",
+        "isCorrect": true,
+        "marks": 5
+      },
+      {
+        "question": "What is the declarative way to render a dynamic list of components based on values in an array?",
+        "subject": "React Js",
+        "selectedAnswer": "Using the Array.map() method",
+        "isCorrect": true,
+        "marks": 5
+      },
+      {
+        "question": "What is a state in React?",
+        "subject": "React Js",
+        "selectedAnswer": "None of the above.",
+        "isCorrect": false,
+        "marks": 0
+      }
+    ],
+    "id": "4"
+  }
+]
